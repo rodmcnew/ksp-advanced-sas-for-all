@@ -14,6 +14,6 @@ All manned and unmanned ships will gain these SAS abilities regardless of pilot 
 ## More Info
 This mod is listed at:
 * [Curse Forge](http://kerbal.curseforge.com/projects/advanced-sas-for-all)
-* [Space Doc](http://spacedock.info/mod/725/Advanced%20SAS%20For%20All)
+* [Space Dock](http://spacedock.info/mod/725/Advanced%20SAS%20For%20All)
 
 This mod is free software licensed under the GPLv3 license.
