@@ -1,4 +1,4 @@
-# Advanced SAS For All - Mod for Kerbal Space Program
+## Advanced SAS For All - Mod for Kerbal Space Program
 KSP mod that enables all advanced SAS functionality on all command pods and probe bodies in career mode.
 
 All manned and unmanned ships will gain these SAS abilities regardless of pilot skill level:
