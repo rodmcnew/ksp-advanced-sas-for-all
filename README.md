@@ -7,3 +7,4 @@ All manned and unmanned ships will gain these SAS abilities regardless of pilot 
 * normal and anti-normal hold
 * target, anti-target, and maneuver hold
 
+This is a mod for the game Kerbal Space Program.
