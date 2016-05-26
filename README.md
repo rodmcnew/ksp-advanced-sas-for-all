@@ -1,7 +1,7 @@
 ## Advanced SAS For All - Mod for Kerbal Space Program
 This enables all advanced SAS functionality on all command pods and probe bodies in career mode.
 
-Unlocks these abilities for all manned and unmanned ships:
+All manned and unmanned ships will gain these SAS abilities regardless of pilot skill level:
 * SAS and stability
 * prograde and retrograde hold
 * normal and anti-normal hold
