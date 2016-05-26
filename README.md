@@ -8,7 +8,7 @@ All manned and unmanned ships will gain these SAS abilities regardless of pilot 
 * target, anti-target, and maneuver hold
 
 ##Download
-[Download latest version from GitHub](https://github.com/rodmcnew/KSP-Mod-AdvancedSASForAll/archive/1.0.1.zip)
+[Download latest version from GitHub](https://github.com/rodmcnew/ksp-advanced-sas-for-all/archive/1.0.1.zip)
 
 
 ## More Info
